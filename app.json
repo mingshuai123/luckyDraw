@@ -1,0 +1,17 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/luckyDraw/luckyDraw",    
+    "pages/logs/logs",
+     "pages/luckyDraw2/luckyDraw2"
+  ],
+  "window": {
+    "backgroundTextStyle": "dark",
+    "backgroundColor": "#333333",
+    "backgroundColorTop": "#333333",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "抽奖活动",
+    "navigationBarTextStyle": "black",
+    "enablePullDownRefresh": true
+  }
+}
